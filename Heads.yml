@@ -6,13 +6,15 @@ Attitude Stability < 400:
   - "AH-J-124 BASHO"
   - "HC-2000 FINDER EYE"
 
-Attitude Stability > 400:
+Attitude Stability < 450:
   - "HS-5000 APPETIZER"
   - "VE-44A"
   - "HD-011 MELANDER"
   - "EL-TH-10 FIRMEZA"
   - "VP-44S"
   - "HD-012 MELANDER C3"
+  
+Attitude Stability < 500:
   - "VE-44B"
   - "20-081 MIND ALPHA"
   - "NACHTREIHER/44E"
